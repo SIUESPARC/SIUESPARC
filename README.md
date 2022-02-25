@@ -1,4 +1,6 @@
-### Hi there 👋
+### This is the SPARC user account and is being deprecated in favor of our organization account
+
+## Our organization account is at https://github.com/SIUE-SPARC
 
 <!--
 **SIUESPARC/SIUESPARC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
