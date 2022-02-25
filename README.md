@@ -1,4 +1,4 @@
-### This is the SPARC user account and is being deprecated in favor of our organization account
+### :triangular_flag_on_post: This is the SPARC user account and is being deprecated in favor of our organization account :triangular_flag_on_post:
 
 ## Our organization account is at https://github.com/SIUE-SPARC
 
